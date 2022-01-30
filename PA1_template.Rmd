@@ -7,10 +7,9 @@ output:
 ```{r packages}
 
 # Load packages
-install.packages("dplyr")
+
 library(dplyr)
 
-install.packages("ggplot2")
 library(ggplot2)
 
 ```
